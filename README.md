@@ -1,6 +1,6 @@
 # Modelamiento Hidráulico – Ecualizador PTAS EAPSA Melipilla  
 ### Enero–Septiembre 2025  
-**Autor:** Yeray Squicciarini Gatica  
+**Autor:** Yeray Squicciarini Gatica - Valeria Ravello - Martina Rojas  
 
 Este repositorio contiene el modelamiento hidráulico completo del ecualizador de la Planta de Tratamiento de Aguas Servidas (PTAS) EAPSA Melipilla.  
 El proyecto incluye la limpieza y reconstrucción del afluente, la simulación dinámica del volumen del estanque y el análisis de un controlador proporcional del caudal de salida.
